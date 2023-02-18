@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mosmoyas/chatGpt3.git/static/css/main.2f1fb946.css",
+    "main.js": "/Mosmoyas/chatGpt3.git/static/js/main.fad0e99d.js",
+    "static/media/ai.png": "/Mosmoyas/chatGpt3.git/static/media/ai.d605bc153b6cea9b11b9.png",
+    "static/media/possibility.png": "/Mosmoyas/chatGpt3.git/static/media/possibility.156c0a659fad120cfa98.png",
+    "static/media/blog01.png": "/Mosmoyas/chatGpt3.git/static/media/blog01.628de21e7362225dd180.png",
+    "static/media/blog03.png": "/Mosmoyas/chatGpt3.git/static/media/blog03.30b4de58c4dfed4d1654.png",
+    "static/media/blog04.png": "/Mosmoyas/chatGpt3.git/static/media/blog04.663253a27f5da5d14ef2.png",
+    "static/media/blog05.png": "/Mosmoyas/chatGpt3.git/static/media/blog05.4224863e760ed66804dd.png",
+    "static/media/blog02.png": "/Mosmoyas/chatGpt3.git/static/media/blog02.d18219ecfaee4860bf4e.png",
+    "static/media/people.png": "/Mosmoyas/chatGpt3.git/static/media/people.c11ae84c386bce9223af.png",
+    "static/media/dropbox.png": "/Mosmoyas/chatGpt3.git/static/media/dropbox.82f375cac5decf9cb393.png",
+    "static/media/atlassian.png": "/Mosmoyas/chatGpt3.git/static/media/atlassian.799a761889177e604be8.png",
+    "index.html": "/Mosmoyas/chatGpt3.git/index.html",
+    "main.2f1fb946.css.map": "/Mosmoyas/chatGpt3.git/static/css/main.2f1fb946.css.map",
+    "main.fad0e99d.js.map": "/Mosmoyas/chatGpt3.git/static/js/main.fad0e99d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f1fb946.css",
+    "static/js/main.fad0e99d.js"
+  ]
+}
